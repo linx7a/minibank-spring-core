@@ -1,0 +1,1 @@
+# minibank-spring-core
